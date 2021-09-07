@@ -38,7 +38,7 @@ h5py==2.8.0
 idna==2.7
 imagesize==1.1.0
 ItsDangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonnet==0.10.0
@@ -51,7 +51,7 @@ msgpack==0.5.6
 msgpack-numpy==0.4.3.2
 murmurhash==1.0.1
 nltk==3.3
-numpy==1.15.2
+numpy==1.16.3
 numpydoc==0.8.0
 overrides==1.9
 packaging==18.0
@@ -66,14 +66,14 @@ pyaml==17.12.1
 pyasn1==0.4.4
 pycparser==2.19
 pycryptodome==3.6.6
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.2
 pytest==3.9.1
 pytest-pythonpath==0.7.3
 python-dateutil==2.7.3
 python-jose==2.0.2
 pytz==2017.3
-PyYAML==3.13
+PyYAML==4.2b1
 regex==2018.1.10
 requests==2.20.0
 responses==0.10.1
@@ -97,6 +97,6 @@ Unidecode==1.0.22
 urllib3==1.24
 wcwidth==0.1.7
 websocket-client==0.53.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
 xmltodict==0.11.0
