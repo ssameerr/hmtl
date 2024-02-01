@@ -17,7 +17,7 @@ Click==7.0
 colorama==0.3.9
 conllu==0.11
 cookies==2.2.1
-cryptography==2.3.1
+cryptography==42.0.2
 cymem==2.0.2
 cytoolz==0.9.0.1
 dill==0.2.8.2
@@ -65,7 +65,7 @@ py==1.7.0
 pyaml==17.12.1
 pyasn1==0.4.4
 pycparser==2.19
-pycryptodome==3.6.6
+pycryptodome==3.19.1
 Pygments==2.2.0
 pyparsing==2.2.2
 pytest==3.9.1
