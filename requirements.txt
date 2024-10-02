@@ -42,7 +42,7 @@ Jinja2==2.10
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonnet==0.10.0
-jsonpickle==1.0
+jsonpickle==3.3.0
 MarkupSafe==1.0
 mock==2.0.0
 more-itertools==4.3.0
