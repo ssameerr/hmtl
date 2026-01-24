@@ -63,7 +63,7 @@ preshed==2.0.1
 protobuf==3.6.1
 py==1.7.0
 pyaml==17.12.1
-pyasn1==0.4.4
+pyasn1==0.6.2
 pycparser==2.19
 pycryptodome==3.6.6
 Pygments==2.2.0
